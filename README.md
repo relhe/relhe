@@ -24,5 +24,5 @@ I'm a software engineering student in my last semester at Montreal Polytechnic, 
 
 
 ## Find me: 
- <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> | <a href="https://relhe.github.io">portfolio</a>
+ <a href="https://www.linkedin.com/in/renel-lherisson-91b63849">LinkedIn</a> | <a href="https://relhe.github.io">portfolio</a>
  
