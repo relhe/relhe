@@ -1,6 +1,6 @@
-## Hi there 👋
+<p align="center"><img width="80%" alt="Hello, I'm Renel. I do open source!" src="./assets/gh-readme-hdr.png" /></p>
 
-<!--
+<br />
 **relhe/relhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=relhe&theme=radical&hide=html&count_private=true&layout=compact)
+
+
+
