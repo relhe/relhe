@@ -1,20 +1,28 @@
 <p align="center"><img width="80%" alt="Hello, I'm Renel. I do open source!" src="./assets/gh-readme-banner.png" /></p>
 
 <br />
-**relhe/relhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer student in my last semester, I am passionate about software devlopment and machine learning. Some technologies I enjoy working with include Python, NextJs, Angular.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a web-based chess game powered by artificial intelligence, building it from scratch as a personal project for fun
+- 🌱 I’m currently learning c# and React Native for mobile app development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=relhe&theme=radical&hide=html&count_private=true&layout=compact)
+<br />
 
 
 
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+
+
+| <a href="https://github.com/relhe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=relhe&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/relhe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=relhe&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+
+## Find me: 
+ <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> | <a href="https://relhe.github.io">portfolio</a>
+ 
