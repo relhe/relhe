@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Renel. I do open source!" src="./assets/gh-readme-hdr.png" /></p>
+<p align="center"><img width="80%" alt="Hello, I'm Renel. I do open source!" src="./assets/gh-readme-banner.png" /></p>
 
 <br />
 **relhe/relhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
