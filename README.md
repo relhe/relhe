@@ -1,10 +1,7 @@
 <p align="center"><img width="80%" alt="Hello, I'm Renel. I do open source!" src="./assets/gh-readme-banner.png" /></p>
 
 <br />
-I'm a software engineering student in my last semester at Montreal Polytechnic, I am passionate about software development and machine learning. Some technologies I enjoy working with include Python, NextJs, Angular.
-
-- 🔭 I’m currently working on a web-based chess game powered by artificial intelligence, building it from scratch as a personal project for fun
-- 🌱 I’m currently learning c# and React Native for mobile app development
+I'm a software engineer and data engineer with years of experience designing and developing web and mobile applications in the IT and precision agriculture industries.  I am passionate about software development and machine learning. I build secure, high-performance, and accessible applications to help organizations maximize their tech potential and revenue.
 
 <br />
 
