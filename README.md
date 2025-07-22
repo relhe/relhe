@@ -1,7 +1,7 @@
 <p align="center"><img width="80%" alt="Hello, I'm Renel. I do open source!" src="./assets/gh-readme-banner.png" /></p>
 
 <br />
-I'm a software engineer and data engineer with years of experience designing and developing web and mobile applications in the IT and precision agriculture industries.  I am passionate about software development and machine learning. I build secure, high-performance, and accessible applications to help organizations maximize their tech potential and revenue.
+I have three years of experience designing and developing web and mobile applications for the IT and precision agriculture sectors. I am a software engineer, software developer, and data engineer.  I have a strong interest in machine learning, software design, and software development. I create, implement and deploy safe, effective, and user-friendly apps and solutions to help businesses get the most out of their technology and boost their profits.
 
 <br />
 
