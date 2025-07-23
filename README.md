@@ -1,6 +1,5 @@
 <br />
-I have three years of experience designing and developing web and mobile applications for the IT and precision agriculture sectors. I am a software engineer, software developer, and data engineer.  I have a strong interest in machine learning, software design, and software development. I create, implement and deploy safe, effective, and user-friendly apps and solutions to help businesses get the most out of their technology and boost their profits.
-
+I have three years of experience designing and developing full-stack web and mobile applications for IT and precision agriculture sectors. I am a software engineer, software developer, and data engineer. I have a strong interest in software development, software design, system design, data science, and machine learning. I create, implement, and deploy safe, effective, and user-friendly apps and solutions to help businesses get the most out of their technology and boost their profits.
 <br />
 
 
