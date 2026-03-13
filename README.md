@@ -35,5 +35,5 @@ I have three years of experience designing and developing full-stack web and mob
 
 
 ## Find me: 
- <a href="https://www.linkedin.com/in/renel-lherisson-91b63849" target="_blank" >LinkedIn</a> | <a href="https://relhe.github.io" target="_blank">portfolio</a>
+ <a href="https://www.linkedin.com/in/renel-lherisson-91b63849" target="_blank" >LinkedIn</a> | <a href="https://portfolio-rose-seven-51.vercel.app/" target="_blank">portfolio</a>
  
