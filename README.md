@@ -32,26 +32,6 @@ AI is a core part of my engineering workflow. I integrate LLMs into products, de
 - **AI Integration** — intelligent features powered by LLM orchestration, agent workflows, and retrieval systems
 - **Infrastructure & DevOps** — shipping with confidence via Docker, CI/CD, observability, and cloud platforms
 
-### Featured Projects
-
-<p>
-  <a href="https://github.com/relhe/billpilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=relhe&repo=billpilot&theme=transparent&hide_border=true" alt="billpilot"/>
-  </a>
-  <a href="https://github.com/relhe/complex-docker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=relhe&repo=complex-docker&theme=transparent&hide_border=true" alt="complex-docker"/>
-  </a>
-</p>
-<p>
-  <a href="https://github.com/relhe/boring-tasks-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=relhe&repo=boring-tasks-manager&theme=transparent&hide_border=true" alt="boring-tasks-manager"/>
-  </a>
-</p>
-
-- **[billpilot](https://github.com/relhe/billpilot)** — Full-stack payment management platform with CRUD, evidence file uploads, and authentication. Built with FastAPI (Python) and Angular 18+.
-- **[complex-docker](https://github.com/relhe/complex-docker)** — Distributed microservices reference architecture covering the full path from local Docker development to automated AWS deployment.
-- **[boring-tasks-manager](https://github.com/relhe/boring-tasks-manager)** — Python automation toolkit for repetitive workflows: file organization, data management, and scheduled email dispatch.
-
 ### Tech
 
 <p>
